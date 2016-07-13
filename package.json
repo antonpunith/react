@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/antonpunith/react/issues"
   },
-  "homepage": "https://github.com/antonpunith/react#readme"
+  "homepage": "https://github.com/antonpunith/react#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
 }
