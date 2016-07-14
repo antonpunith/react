@@ -6,5 +6,5 @@ This is my playground to work on a react app.
 * npm install webpack --save-dev
 
 ## Run
-* webpack ./app/entry.js build/bundle.js
+* webpack OR webpack --progress --colors
 * open index.html in browser
